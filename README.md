@@ -6,7 +6,7 @@
 
 Visite:
 
-* [Dashboard] (https://app.powerbi.com/view?r=eyJrIjoiNGYzOWVkMGMtYWU3Zi00OTAzLThmZmQtMmVkNzk4MjdhZDVjIiwidCI6IjdiNjIxY2E1LTMzOWMtNGZkMi1iOTVhLWFlM2RjZjM3NTQ4MSJ9)
+* [Dashboard - Projeto Orquídea](https://app.powerbi.com/view?r=eyJrIjoiNGYzOWVkMGMtYWU3Zi00OTAzLThmZmQtMmVkNzk4MjdhZDVjIiwidCI6IjdiNjIxY2E1LTMzOWMtNGZkMi1iOTVhLWFlM2RjZjM3NTQ4MSJ9)
 
 ### 📋 Pré-requisitos
 
