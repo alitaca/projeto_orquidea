@@ -57,7 +57,7 @@ As ferramentas utilizadas para criar o projeto
 
 Este projeto está sob licença - veja o arquivo LICENSE.md para detalhes.
 
-## :dove: Expresões de gratidão
+## :dove: Expressões de gratidão
 
 * Aos professores da Ironhck, em especial a Rai e o Adriano :star_struck:
 * À minha irmã, que me ensinou uns truques no meu código :kissing_heart:
