@@ -1,6 +1,6 @@
 # Projeto Orquídea
 
-Este projeto 
+O Projeto Orquídea 
 
 ## :cactus: Começando
 
@@ -13,7 +13,7 @@ Visite:
 Navegador Web
 
 
-## Desenvolvimento
+## :bouquet: Desenvolvimento
 
 
 
@@ -23,27 +23,41 @@ O resultado foi compilado em um arquivo .csv.
 dataset_orquidea.csv
 ```
 
-## Construído com
+## :mushroom: Construído com
 
 As ferramentas utilizadas para criar o projeto
 
 * [Python](https://www.python.org/) - Usado para obter e tratar o dataset
 * [MS Power BI](https://powerbi.microsoft.com/en/) - Usado para criação do dashboard
 
-## Link do Repositório Online
+### Bibliotecas
+
+* [os](https://docs.python.org/3/library/os.html)
+* [requests](https://pypi.org/project/requests/)
+* [BeautifulSoup](https://pypi.org/project/beautifulsoup4/)
+* [pandas](https://pandas.pydata.org/)
+* [re](https://docs.python.org/3/library/re.html)
+* [logging](https://docs.python.org/3/howto/logging.html)
+
+### Data Sources
+
+* http://www.orquideasdemairipora.com.br/index.php?option=com_content&view=article&id=39&Itemid=75
+
+
+## :onion: Link do Repositório Online
 
 * [Repositório](dataset_orquidea.csv) - Link para o repositório de dados.
 
-## Autores
+## :frog: Autores
 
 * **Aline** - *Trabalho Inicial* - [alitaca](https://github.com/alitaca)
 
 
-## Licença
+## :chicken: Licença
 
 Este projeto está sob licença - veja o arquivo LICENSE.md para detalhes.
 
-## Expresões de gratidão
+## :dove: Expresões de gratidão
 
 * Aos professores da Ironhck, em especial a Rai e o Adriano :star_struck:
 * À minha irmã, que me ensinou uns truques no meu código :kissing_heart:
