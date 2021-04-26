@@ -1,6 +1,6 @@
 # Projeto Orquídea
 
-O Projeto Orquídea 
+O Projeto Orquídea foi criado com o objetivo de compilar uma base de dados a partir dos dados disponíveis em sites de orquidários.
 
 ## :cactus: Começando
 
@@ -15,9 +15,14 @@ Navegador Web
 
 ## :bouquet: Desenvolvimento
 
+### Buscando dados
 
+Para popular a base de dados, as informações foram buscadas em sites de orquidários na internet. Cinco sites foram selecionados para compor a base de dados inicial.
+Os orquidários selecionados estão distribuídos entre o estado de São Paulo e Rio de Janeiro. 
 
-O resultado foi compilado em um arquivo .csv.
+### Base de dados
+
+O banco de dados foi carregado em um arquivo .csv.
 
 ```
 dataset_orquidea.csv
